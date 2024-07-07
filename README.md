@@ -24,7 +24,7 @@
 </div><br>
 <h3 align="center"> 💻 Project 💻 </h3>
 <p align="center">
-    <a href="https://github.com/darakbooks-project/darakbooks-BE">
+    <a [다락책방프로젝트]href="https://github.com/darakbooks-project/darakbooks-BE">
     </a>
 </p>
 </div><br>
