@@ -21,7 +21,16 @@
         <img src="https://img.shields.io/badge/velog-00c3c1?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
 </p>
-
+</div><br>
+<h3 align="center"> 💻 DEV's log 💻 </h3>
+<p align="center">
+    <a href="https://bigtreeontherock.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    <a href="https://velog.io/@jyjyjy17">
+        <img src="https://img.shields.io/badge/velog-00c3c1?style=for-the-badge&logo=velog&logoColor=white"> 
+    </a>
+</p>
 </div><br>
 
 <h3 align="center">🔋 Back Tech Stack 🔋</h3>
