@@ -39,12 +39,12 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 </a>&nbsp
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=flat&logo=NESTJS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
 
 </p>
 
 <h3 align="center">🪫 Back Tech Stack :Not yet🥺 🪫</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🔋 DataBase Tech Stack 🔋</h3>
